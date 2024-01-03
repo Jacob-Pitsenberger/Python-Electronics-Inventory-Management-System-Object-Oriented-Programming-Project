@@ -49,4 +49,4 @@ This project was created as part of the Object-Oriented Programming (Python) cou
 
 ## Author
 
-- [Your Name]
+Jacob Pitsenberger
